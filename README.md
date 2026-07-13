@@ -1,8 +1,22 @@
-# Share Raycast Extension
+<p align="center">
+  <img src="assets/command-icon.png" width="128" alt="Share Raycast Icon" />
+</p>
 
-A sleek and native Raycast extension that allows you to instantly share any file from your Mac over your local network. It dynamically generates a QR code within Raycast so you can simply scan it with your mobile device (like an Android phone) to download the file automatically!
+<h1 align="center">Share Raycast Extension</h1>
 
-## Features
+<p align="center">
+  A sleek and native Raycast extension that allows you to instantly share any file from your Mac over your local network.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Raycast-Extension-FF6363?style=flat-square&logo=raycast" />
+  <img src="https://img.shields.io/badge/Platform-macOS-black?style=flat-square&logo=apple" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+</p>
+
+---
+
+## ✨ Features
 
 - **Instant Local Hosting:** Select a file and a local HTTP server is instantly spun up in the background.
 - **Smart IP & Port Detection:** Automatically detects your local network interface (IPv4) and assigns an available port.
