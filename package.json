@@ -3,7 +3,7 @@
   "name": "share-raycast",
   "title": "Share Local File",
   "description": "Share any file over local network with a QR code",
-  "icon": "🌐",
+  "icon": "assets/icon.png",
   "author": "you",
   "categories": [
     "Productivity"
